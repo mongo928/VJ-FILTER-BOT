@@ -117,7 +117,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/iwhiwh/VJ-FILTER-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/mongo928/VJ-FILTER-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
